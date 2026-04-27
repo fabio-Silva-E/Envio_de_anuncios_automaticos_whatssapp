@@ -2,4 +2,12 @@ envios.log
 selenium_profile
 anuncios
 imgs
+imgs_2
 grupos.txt
+gerarlicenca.py
+dist/
+selenium_profile/
+*.log
+__pycache__/
+*.pyc
+Thumbs.db

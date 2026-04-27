@@ -7531,3 +7531,1037 @@ Stacktrace:
 
 
 --------------------------------------------------------------------------------
+
+[02/04/2026 23:03:13] ❌ Erro ao enviar pasta '1630 ano 95' para COMPRADORES PROCURAM ...: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 114, in enviar_pasta_para_grupo
+    search_box = WebDriverWait(driver, TEMPO_ESPERA).until(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\whatssappAuto\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+--------------------------------------------------------------------------------
+
+[02/04/2026 23:03:33] ❌ Erro ao enviar pasta '1630 ano 95' para COMPRADORES PROCURAM ...: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 114, in enviar_pasta_para_grupo
+    search_box = WebDriverWait(driver, TEMPO_ESPERA).until(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\whatssappAuto\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+--------------------------------------------------------------------------------
+
+[02/04/2026 23:03:53] ❌ Erro ao enviar pasta '1630 ano 95' para COMPRADORES PROCURAM ...: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 114, in enviar_pasta_para_grupo
+    search_box = WebDriverWait(driver, TEMPO_ESPERA).until(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\whatssappAuto\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+--------------------------------------------------------------------------------
+
+[02/04/2026 23:04:03] ❌ Erro ao enviar pasta '1630 ano 95' para MF Caminhões e Carretas: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 114, in enviar_pasta_para_grupo
+    search_box = WebDriverWait(driver, TEMPO_ESPERA).until(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\whatssappAuto\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+--------------------------------------------------------------------------------
+
+[02/04/2026 23:04:24] ❌ Erro ao enviar pasta '1630 ano 95' para MF Caminhões e Carretas: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 114, in enviar_pasta_para_grupo
+    search_box = WebDriverWait(driver, TEMPO_ESPERA).until(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\whatssappAuto\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+--------------------------------------------------------------------------------
+
+[02/04/2026 23:04:44] ❌ Erro ao enviar pasta '1630 ano 95' para MF Caminhões e Carretas: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 114, in enviar_pasta_para_grupo
+    search_box = WebDriverWait(driver, TEMPO_ESPERA).until(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\whatssappAuto\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+--------------------------------------------------------------------------------
+
+[02/04/2026 23:04:54] ❌ Erro ao enviar pasta '1630 ano 95' para Consultoria, Compra, Vendas e Intermediações Caminhões, Máquinas Pesadas, Aeronaves, Fazendas etc: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 114, in enviar_pasta_para_grupo
+    search_box = WebDriverWait(driver, TEMPO_ESPERA).until(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\whatssappAuto\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+--------------------------------------------------------------------------------
+
+[02/04/2026 23:05:44] ❌ Erro ao enviar pasta '1630 ano 95' para COMPRADORES PROCURAM ...: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 114, in enviar_pasta_para_grupo
+    search_box = WebDriverWait(driver, TEMPO_ESPERA).until(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\whatssappAuto\.venv\Lib\site-packages\selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff73c5a29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff73c2ca0d0+14e90]
+	chromedriver!(No symbol) [0x7ff73c02db2d]
+	chromedriver!(No symbol) [0x7ff73c086b9e]
+	chromedriver!(No symbol) [0x7ff73c086eac]
+	chromedriver!(No symbol) [0x7ff73c0d6fe7]
+	chromedriver!(No symbol) [0x7ff73c0d3b9b]
+	chromedriver!(No symbol) [0x7ff73c079298]
+	chromedriver!(No symbol) [0x7ff73c07a183]
+	chromedriver!GetHandleVerifier [0x7ff73c5cde0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff73c5c8588+313348]
+	chromedriver!GetHandleVerifier [0x7ff73c5e9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff73c2e6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff73c2efacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff73c2d3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff73c2d37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff73c2b7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+--------------------------------------------------------------------------------
+
+[06/04/2026 11:08:27] ❌ Erro ao enviar pasta '1630 ano 95' para COMPRADORES PROCURAM ...: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6237f29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff62351a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff62327db2d]
+	chromedriver!(No symbol) [0x7ff6232d6b9e]
+	chromedriver!(No symbol) [0x7ff6232d6eac]
+	chromedriver!(No symbol) [0x7ff623326fe7]
+	chromedriver!(No symbol) [0x7ff623323b9b]
+	chromedriver!(No symbol) [0x7ff6232c9298]
+	chromedriver!(No symbol) [0x7ff6232ca183]
+	chromedriver!GetHandleVerifier [0x7ff62381de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff623818588+313348]
+	chromedriver!GetHandleVerifier [0x7ff623839d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff623536785+31545]
+	chromedriver!GetHandleVerifier [0x7ff62353facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff623523634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6235237e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff623507e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 114, in enviar_pasta_para_grupo
+    search_box = WebDriverWait(driver, TEMPO_ESPERA).until(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6237f29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff62351a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff62327db2d]
+	chromedriver!(No symbol) [0x7ff6232d6b9e]
+	chromedriver!(No symbol) [0x7ff6232d6eac]
+	chromedriver!(No symbol) [0x7ff623326fe7]
+	chromedriver!(No symbol) [0x7ff623323b9b]
+	chromedriver!(No symbol) [0x7ff6232c9298]
+	chromedriver!(No symbol) [0x7ff6232ca183]
+	chromedriver!GetHandleVerifier [0x7ff62381de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff623818588+313348]
+	chromedriver!GetHandleVerifier [0x7ff623839d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff623536785+31545]
+	chromedriver!GetHandleVerifier [0x7ff62353facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff623523634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6235237e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff623507e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+--------------------------------------------------------------------------------
+
+[06/04/2026 11:14:08] ❌ Erro ao enviar pasta '1630 ano 95' para COMPRADORES PROCURAM ...: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6237f29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff62351a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff62327db2d]
+	chromedriver!(No symbol) [0x7ff6232d6b9e]
+	chromedriver!(No symbol) [0x7ff6232d6eac]
+	chromedriver!(No symbol) [0x7ff623326fe7]
+	chromedriver!(No symbol) [0x7ff623323b9b]
+	chromedriver!(No symbol) [0x7ff6232c9298]
+	chromedriver!(No symbol) [0x7ff6232ca183]
+	chromedriver!GetHandleVerifier [0x7ff62381de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff623818588+313348]
+	chromedriver!GetHandleVerifier [0x7ff623839d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff623536785+31545]
+	chromedriver!GetHandleVerifier [0x7ff62353facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff623523634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6235237e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff623507e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 114, in enviar_pasta_para_grupo
+    search_box = WebDriverWait(driver, TEMPO_ESPERA).until(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6237f29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff62351a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff62327db2d]
+	chromedriver!(No symbol) [0x7ff6232d6b9e]
+	chromedriver!(No symbol) [0x7ff6232d6eac]
+	chromedriver!(No symbol) [0x7ff623326fe7]
+	chromedriver!(No symbol) [0x7ff623323b9b]
+	chromedriver!(No symbol) [0x7ff6232c9298]
+	chromedriver!(No symbol) [0x7ff6232ca183]
+	chromedriver!GetHandleVerifier [0x7ff62381de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff623818588+313348]
+	chromedriver!GetHandleVerifier [0x7ff623839d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff623536785+31545]
+	chromedriver!GetHandleVerifier [0x7ff62353facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff623523634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6235237e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff623507e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+--------------------------------------------------------------------------------
+
+[06/04/2026 11:26:19] ❌ Erro ao enviar pasta '1630 ano 95' para COMPRADORES PROCURAM ...: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6237f29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff62351a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff62327db2d]
+	chromedriver!(No symbol) [0x7ff6232d6b9e]
+	chromedriver!(No symbol) [0x7ff6232d6eac]
+	chromedriver!(No symbol) [0x7ff623326fe7]
+	chromedriver!(No symbol) [0x7ff623323b9b]
+	chromedriver!(No symbol) [0x7ff6232c9298]
+	chromedriver!(No symbol) [0x7ff6232ca183]
+	chromedriver!GetHandleVerifier [0x7ff62381de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff623818588+313348]
+	chromedriver!GetHandleVerifier [0x7ff623839d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff623536785+31545]
+	chromedriver!GetHandleVerifier [0x7ff62353facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff623523634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6235237e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff623507e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 114, in enviar_pasta_para_grupo
+    search_box = WebDriverWait(driver, TEMPO_ESPERA).until(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6237f29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff62351a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff62327db2d]
+	chromedriver!(No symbol) [0x7ff6232d6b9e]
+	chromedriver!(No symbol) [0x7ff6232d6eac]
+	chromedriver!(No symbol) [0x7ff623326fe7]
+	chromedriver!(No symbol) [0x7ff623323b9b]
+	chromedriver!(No symbol) [0x7ff6232c9298]
+	chromedriver!(No symbol) [0x7ff6232ca183]
+	chromedriver!GetHandleVerifier [0x7ff62381de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff623818588+313348]
+	chromedriver!GetHandleVerifier [0x7ff623839d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff623536785+31545]
+	chromedriver!GetHandleVerifier [0x7ff62353facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff623523634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6235237e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff623507e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+--------------------------------------------------------------------------------
+
+[06/04/2026 13:19:19] ❌ Erro ao enviar pasta '540 bug leve 2019' para 14 99765-2839: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6237f29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff62351a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff62327db2d]
+	chromedriver!(No symbol) [0x7ff6232d6b9e]
+	chromedriver!(No symbol) [0x7ff6232d6eac]
+	chromedriver!(No symbol) [0x7ff623326fe7]
+	chromedriver!(No symbol) [0x7ff623323b9b]
+	chromedriver!(No symbol) [0x7ff6232c9298]
+	chromedriver!(No symbol) [0x7ff6232ca183]
+	chromedriver!GetHandleVerifier [0x7ff62381de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff623818588+313348]
+	chromedriver!GetHandleVerifier [0x7ff623839d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff623536785+31545]
+	chromedriver!GetHandleVerifier [0x7ff62353facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff623523634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6235237e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff623507e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 139, in enviar_pasta_para_grupo
+    grupo_result = WebDriverWait(driver, 5).until(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6237f29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff62351a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff62327db2d]
+	chromedriver!(No symbol) [0x7ff6232d6b9e]
+	chromedriver!(No symbol) [0x7ff6232d6eac]
+	chromedriver!(No symbol) [0x7ff623326fe7]
+	chromedriver!(No symbol) [0x7ff623323b9b]
+	chromedriver!(No symbol) [0x7ff6232c9298]
+	chromedriver!(No symbol) [0x7ff6232ca183]
+	chromedriver!GetHandleVerifier [0x7ff62381de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff623818588+313348]
+	chromedriver!GetHandleVerifier [0x7ff623839d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff623536785+31545]
+	chromedriver!GetHandleVerifier [0x7ff62353facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff623523634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6235237e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff623507e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 148, in enviar_pasta_para_grupo
+    search_box = WebDriverWait(driver, TEMPO_ESPERA).until(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6237f29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff62351a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff62327db2d]
+	chromedriver!(No symbol) [0x7ff6232d6b9e]
+	chromedriver!(No symbol) [0x7ff6232d6eac]
+	chromedriver!(No symbol) [0x7ff623326fe7]
+	chromedriver!(No symbol) [0x7ff623323b9b]
+	chromedriver!(No symbol) [0x7ff6232c9298]
+	chromedriver!(No symbol) [0x7ff6232ca183]
+	chromedriver!GetHandleVerifier [0x7ff62381de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff623818588+313348]
+	chromedriver!GetHandleVerifier [0x7ff623839d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff623536785+31545]
+	chromedriver!GetHandleVerifier [0x7ff62353facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff623523634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6235237e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff623507e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+--------------------------------------------------------------------------------
+
+[06/04/2026 13:19:32] ❌ Erro ao enviar pasta '540 bug leve 2019' para 14 99765-2839: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6237f29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff62351a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff62327d916]
+	chromedriver!(No symbol) [0x7ff6232c8313]
+	chromedriver!(No symbol) [0x7ff6232ffe92]
+	chromedriver!(No symbol) [0x7ff6232fa011]
+	chromedriver!(No symbol) [0x7ff6232f92c3]
+	chromedriver!(No symbol) [0x7ff623246565]
+	chromedriver!GetHandleVerifier [0x7ff62381de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff623818588+313348]
+	chromedriver!GetHandleVerifier [0x7ff623839d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff623536785+31545]
+	chromedriver!GetHandleVerifier [0x7ff62353facc+3a88c]
+	chromedriver!(No symbol) [0x7ff62324532a]
+	chromedriver!GetHandleVerifier [0x7ff623974b48+46f908]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 139, in enviar_pasta_para_grupo
+    grupo_result = WebDriverWait(driver, 5).until(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 92, in _predicate
+    return driver.find_element(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 816, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=146.0.7680.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6237f29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff62351a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff62327db2d]
+	chromedriver!(No symbol) [0x7ff623268ca2]
+	chromedriver!(No symbol) [0x7ff62328f416]
+	chromedriver!(No symbol) [0x7ff6233070e0]
+	chromedriver!(No symbol) [0x7ff623323482]
+	chromedriver!(No symbol) [0x7ff6232c9298]
+	chromedriver!(No symbol) [0x7ff6232ca183]
+	chromedriver!GetHandleVerifier [0x7ff62381de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff623818588+313348]
+	chromedriver!GetHandleVerifier [0x7ff623839d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff623536785+31545]
+	chromedriver!GetHandleVerifier [0x7ff62353facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff623523634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6235237e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff623507e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\whatssappAuto\automatizaçãoWatts.py", line 148, in enviar_pasta_para_grupo
+    search_box = WebDriverWait(driver, TEMPO_ESPERA).until(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 112, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 92, in _predicate
+    return driver.find_element(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 816, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 446, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\fs271\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6237f29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff62351a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff62327d916]
+	chromedriver!(No symbol) [0x7ff6232c8313]
+	chromedriver!(No symbol) [0x7ff6232ffe92]
+	chromedriver!(No symbol) [0x7ff6232fa011]
+	chromedriver!(No symbol) [0x7ff6232f92c3]
+	chromedriver!(No symbol) [0x7ff623246565]
+	chromedriver!GetHandleVerifier [0x7ff62381de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff623818588+313348]
+	chromedriver!GetHandleVerifier [0x7ff623839d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff623536785+31545]
+	chromedriver!GetHandleVerifier [0x7ff62353facc+3a88c]
+	chromedriver!(No symbol) [0x7ff62324532a]
+	chromedriver!GetHandleVerifier [0x7ff623974b48+46f908]
+	KERNEL32!BaseThreadInitThunk [0x7fffd5cee8d7+17]
+	ntdll!RtlUserThreadStart [0x7fffd6cac48c+2c]
+
+
+--------------------------------------------------------------------------------
+❌ Erro ao enviar pasta '1630 ano 95' para 14997652839: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6bec8a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff6bec8a950+14eb0]
+	chromedriver!(No symbol) [0x7ff6be9fd6ed]
+	chromedriver!(No symbol) [0x7ff6bea56cfe]
+	chromedriver!(No symbol) [0x7ff6bea5700c]
+	chromedriver!(No symbol) [0x7ff6beaa7cb7]
+	chromedriver!(No symbol) [0x7ff6beaa483b]
+	chromedriver!(No symbol) [0x7ff6bea490e8]
+	chromedriver!(No symbol) [0x7ff6bea49fc3]
+	chromedriver!GetHandleVerifier [0x7ff6befa0149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff6bef9a715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff6befbc012+346572]
+	chromedriver!GetHandleVerifier [0x7ff6beca7cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff6becb087c+3addc]
+	chromedriver!GetHandleVerifier [0x7ff6bec940e4+1e644]
+	chromedriver!GetHandleVerifier [0x7ff6bec94296+1e7f6]
+	chromedriver!GetHandleVerifier [0x7ff6bec78737+2c97]
+	KERNEL32!BaseThreadInitThunk [0x7ffe79b2e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe7b4ac3fc+2c]
+
+❌ Erro ao enviar pasta '1630 ano 95' para 14997652839: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6bec8a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff6bec8a950+14eb0]
+	chromedriver!(No symbol) [0x7ff6be9fd6ed]
+	chromedriver!(No symbol) [0x7ff6bea56cfe]
+	chromedriver!(No symbol) [0x7ff6bea5700c]
+	chromedriver!(No symbol) [0x7ff6beaa7cb7]
+	chromedriver!(No symbol) [0x7ff6beaa483b]
+	chromedriver!(No symbol) [0x7ff6bea490e8]
+	chromedriver!(No symbol) [0x7ff6bea49fc3]
+	chromedriver!GetHandleVerifier [0x7ff6befa0149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff6bef9a715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff6befbc012+346572]
+	chromedriver!GetHandleVerifier [0x7ff6beca7cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff6becb087c+3addc]
+	chromedriver!GetHandleVerifier [0x7ff6bec940e4+1e644]
+	chromedriver!GetHandleVerifier [0x7ff6bec94296+1e7f6]
+	chromedriver!GetHandleVerifier [0x7ff6bec78737+2c97]
+	KERNEL32!BaseThreadInitThunk [0x7ffe79b2e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe7b4ac3fc+2c]
+
+❌ Erro ao enviar pasta 'meteor 29520' para ⚜️🌱VENDAS BRASIL 🏦🏡🏘️🌱JB🚛🚜 🏢🏗️: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=147.0.7727.116)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6bec8a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff6bec8a950+14eb0]
+	chromedriver!(No symbol) [0x7ff6be9fd6ed]
+	chromedriver!(No symbol) [0x7ff6bea9c665]
+	chromedriver!(No symbol) [0x7ff6bea51a37]
+	chromedriver!(No symbol) [0x7ff6bea4f701]
+	chromedriver!(No symbol) [0x7ff6bea8002a]
+	chromedriver!(No symbol) [0x7ff6bea4aa46]
+	chromedriver!(No symbol) [0x7ff6beaa483b]
+	chromedriver!(No symbol) [0x7ff6bea490e8]
+	chromedriver!(No symbol) [0x7ff6bea49fc3]
+	chromedriver!GetHandleVerifier [0x7ff6befa0149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff6bef9a715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff6befbc012+346572]
+	chromedriver!GetHandleVerifier [0x7ff6beca7cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff6becb087c+3addc]
+	chromedriver!GetHandleVerifier [0x7ff6bec940e4+1e644]
+	chromedriver!GetHandleVerifier [0x7ff6bec94296+1e7f6]
+	chromedriver!GetHandleVerifier [0x7ff6bec78737+2c97]
+	KERNEL32!BaseThreadInitThunk [0x7ffe79b2e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe7b4ac3fc+2c]
+
+❌ Erro ao enviar pasta 'meteor 29520' para ⚜️🌱VENDAS BRASIL 🏦🏡🏘️🌱JB🚛🚜 🏢🏗️: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=147.0.7727.116)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6bec8a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff6bec8a950+14eb0]
+	chromedriver!(No symbol) [0x7ff6be9fd6ed]
+	chromedriver!(No symbol) [0x7ff6bea9c665]
+	chromedriver!(No symbol) [0x7ff6bea51a37]
+	chromedriver!(No symbol) [0x7ff6bea4f701]
+	chromedriver!(No symbol) [0x7ff6bea8002a]
+	chromedriver!(No symbol) [0x7ff6bea4aa46]
+	chromedriver!(No symbol) [0x7ff6beaa483b]
+	chromedriver!(No symbol) [0x7ff6bea490e8]
+	chromedriver!(No symbol) [0x7ff6bea49fc3]
+	chromedriver!GetHandleVerifier [0x7ff6befa0149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff6bef9a715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff6befbc012+346572]
+	chromedriver!GetHandleVerifier [0x7ff6beca7cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff6becb087c+3addc]
+	chromedriver!GetHandleVerifier [0x7ff6bec940e4+1e644]
+	chromedriver!GetHandleVerifier [0x7ff6bec94296+1e7f6]
+	chromedriver!GetHandleVerifier [0x7ff6bec78737+2c97]
+	KERNEL32!BaseThreadInitThunk [0x7ffe79b2e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe7b4ac3fc+2c]
+
+❌ Erro ao enviar pasta 'meteor 29520' para ⚜️🌱VENDAS BRASIL 🏦🏡🏘️🌱JB🚛🚜 🏢🏗️: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=147.0.7727.116)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6bec8a8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff6bec8a950+14eb0]
+	chromedriver!(No symbol) [0x7ff6be9fd6ed]
+	chromedriver!(No symbol) [0x7ff6bea9c665]
+	chromedriver!(No symbol) [0x7ff6bea51a37]
+	chromedriver!(No symbol) [0x7ff6bea4f701]
+	chromedriver!(No symbol) [0x7ff6bea8002a]
+	chromedriver!(No symbol) [0x7ff6bea4aa46]
+	chromedriver!(No symbol) [0x7ff6beaa483b]
+	chromedriver!(No symbol) [0x7ff6bea490e8]
+	chromedriver!(No symbol) [0x7ff6bea49fc3]
+	chromedriver!GetHandleVerifier [0x7ff6befa0149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff6bef9a715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff6befbc012+346572]
+	chromedriver!GetHandleVerifier [0x7ff6beca7cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff6becb087c+3addc]
+	chromedriver!GetHandleVerifier [0x7ff6bec940e4+1e644]
+	chromedriver!GetHandleVerifier [0x7ff6bec94296+1e7f6]
+	chromedriver!GetHandleVerifier [0x7ff6bec78737+2c97]
+	KERNEL32!BaseThreadInitThunk [0x7ffe79b2e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffe7b4ac3fc+2c]
+
+❌ Erro ao enviar pasta '1630 ano 95' para ⚜️🌱VENDAS BRASIL 🏦🏡🏘️🌱JB🚛🚜 🏢🏗️: 'list' object has no attribute 'click'
+❌ Erro ao enviar pasta '1630 ano 95' para ⚜️🌱VENDAS BRASIL 🏦🏡🏘️🌱JB🚛🚜 🏢🏗️: 'list' object has no attribute 'click'
+❌ Erro ao enviar pasta '1630 ano 95' para ⚜️🌱VENDAS BRASIL 🏦🏡🏘️🌱JB🚛🚜 🏢🏗️: 'list' object has no attribute 'click'
+❌ Erro ao enviar pasta '1630 ano 95' para CORRETORES BILL GRUPO.: 'list' object has no attribute 'click'
+❌ Erro ao enviar pasta '1630 ano 95' para CORRETORES BILL GRUPO.: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6253ca8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff6253ca950+14eb0]
+	chromedriver!(No symbol) [0x7ff62513d4d6]
+	chromedriver!(No symbol) [0x7ff625188166]
+	chromedriver!(No symbol) [0x7ff6251bff32]
+	chromedriver!(No symbol) [0x7ff6251ba191]
+	chromedriver!(No symbol) [0x7ff6251b9433]
+	chromedriver!(No symbol) [0x7ff625106005]
+	chromedriver!GetHandleVerifier [0x7ff6256e0149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff6256da715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff6256fc012+346572]
+	chromedriver!GetHandleVerifier [0x7ff6253e7cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff6253f087c+3addc]
+	chromedriver!(No symbol) [0x7ff625104d9a]
+	chromedriver!GetHandleVerifier [0x7ff6258460a8+490608]
+	KERNEL32!BaseThreadInitThunk [0x7ff9b391e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff9b53ac3fc+2c]
+
+❌ Erro ao enviar pasta '1630 ano 95' para CORRETORES BILL GRUPO.: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6253ca8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff6253ca950+14eb0]
+	chromedriver!(No symbol) [0x7ff62513d4d6]
+	chromedriver!(No symbol) [0x7ff625188166]
+	chromedriver!(No symbol) [0x7ff6251bff32]
+	chromedriver!(No symbol) [0x7ff6251ba191]
+	chromedriver!(No symbol) [0x7ff6251b9433]
+	chromedriver!(No symbol) [0x7ff625106005]
+	chromedriver!GetHandleVerifier [0x7ff6256e0149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff6256da715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff6256fc012+346572]
+	chromedriver!GetHandleVerifier [0x7ff6253e7cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff6253f087c+3addc]
+	chromedriver!(No symbol) [0x7ff625104d9a]
+	chromedriver!GetHandleVerifier [0x7ff6258460a8+490608]
+	KERNEL32!BaseThreadInitThunk [0x7ff9b391e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff9b53ac3fc+2c]
+
+❌ Erro ao enviar pasta '1630 ano 95' para COMPRADORES PROCURAM ...: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6253ca8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff6253ca950+14eb0]
+	chromedriver!(No symbol) [0x7ff62513d4d6]
+	chromedriver!(No symbol) [0x7ff625188166]
+	chromedriver!(No symbol) [0x7ff6251bff32]
+	chromedriver!(No symbol) [0x7ff6251ba191]
+	chromedriver!(No symbol) [0x7ff6251b9433]
+	chromedriver!(No symbol) [0x7ff625106005]
+	chromedriver!GetHandleVerifier [0x7ff6256e0149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff6256da715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff6256fc012+346572]
+	chromedriver!GetHandleVerifier [0x7ff6253e7cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff6253f087c+3addc]
+	chromedriver!(No symbol) [0x7ff625104d9a]
+	chromedriver!GetHandleVerifier [0x7ff6258460a8+490608]
+	KERNEL32!BaseThreadInitThunk [0x7ff9b391e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff9b53ac3fc+2c]
+
+❌ Erro ao enviar pasta '1630 ano 95' para COMPRADORES PROCURAM ...: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6253ca8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff6253ca950+14eb0]
+	chromedriver!(No symbol) [0x7ff62513d4d6]
+	chromedriver!(No symbol) [0x7ff625188166]
+	chromedriver!(No symbol) [0x7ff6251bff32]
+	chromedriver!(No symbol) [0x7ff6251ba191]
+	chromedriver!(No symbol) [0x7ff6251b9433]
+	chromedriver!(No symbol) [0x7ff625106005]
+	chromedriver!GetHandleVerifier [0x7ff6256e0149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff6256da715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff6256fc012+346572]
+	chromedriver!GetHandleVerifier [0x7ff6253e7cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff6253f087c+3addc]
+	chromedriver!(No symbol) [0x7ff625104d9a]
+	chromedriver!GetHandleVerifier [0x7ff6258460a8+490608]
+	KERNEL32!BaseThreadInitThunk [0x7ff9b391e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff9b53ac3fc+2c]
+
+❌ Erro ao enviar pasta '1630 ano 95' para COMPRADORES PROCURAM ...: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6253ca8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff6253ca950+14eb0]
+	chromedriver!(No symbol) [0x7ff62513d4d6]
+	chromedriver!(No symbol) [0x7ff625188166]
+	chromedriver!(No symbol) [0x7ff6251bff32]
+	chromedriver!(No symbol) [0x7ff6251ba191]
+	chromedriver!(No symbol) [0x7ff6251b9433]
+	chromedriver!(No symbol) [0x7ff625106005]
+	chromedriver!GetHandleVerifier [0x7ff6256e0149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff6256da715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff6256fc012+346572]
+	chromedriver!GetHandleVerifier [0x7ff6253e7cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff6253f087c+3addc]
+	chromedriver!(No symbol) [0x7ff625104d9a]
+	chromedriver!GetHandleVerifier [0x7ff6258460a8+490608]
+	KERNEL32!BaseThreadInitThunk [0x7ff9b391e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff9b53ac3fc+2c]
+
+❌ Erro ao enviar pasta '1630 ano 95' para Consultoria, Compra, Vendas e Intermediações Caminhões, Máquinas Pesadas, Aeronaves, Fazendas etc: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6253ca8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff6253ca950+14eb0]
+	chromedriver!(No symbol) [0x7ff62513d4d6]
+	chromedriver!(No symbol) [0x7ff625188166]
+	chromedriver!(No symbol) [0x7ff6251bff32]
+	chromedriver!(No symbol) [0x7ff6251ba191]
+	chromedriver!(No symbol) [0x7ff6251b9433]
+	chromedriver!(No symbol) [0x7ff625106005]
+	chromedriver!GetHandleVerifier [0x7ff6256e0149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff6256da715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff6256fc012+346572]
+	chromedriver!GetHandleVerifier [0x7ff6253e7cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff6253f087c+3addc]
+	chromedriver!(No symbol) [0x7ff625104d9a]
+	chromedriver!GetHandleVerifier [0x7ff6258460a8+490608]
+	KERNEL32!BaseThreadInitThunk [0x7ff9b391e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff9b53ac3fc+2c]
+
+❌ Erro ao enviar pasta '1630 ano 95' para Consultoria, Compra, Vendas e Intermediações Caminhões, Máquinas Pesadas, Aeronaves, Fazendas etc: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6253ca8e5+14e45]
+	chromedriver!GetHandleVerifier [0x7ff6253ca950+14eb0]
+	chromedriver!(No symbol) [0x7ff62513d4d6]
+	chromedriver!(No symbol) [0x7ff625188166]
+	chromedriver!(No symbol) [0x7ff6251bff32]
+	chromedriver!(No symbol) [0x7ff6251ba191]
+	chromedriver!(No symbol) [0x7ff6251b9433]
+	chromedriver!(No symbol) [0x7ff625106005]
+	chromedriver!GetHandleVerifier [0x7ff6256e0149+32a6a9]
+	chromedriver!GetHandleVerifier [0x7ff6256da715+324c75]
+	chromedriver!GetHandleVerifier [0x7ff6256fc012+346572]
+	chromedriver!GetHandleVerifier [0x7ff6253e7cb5+32215]
+	chromedriver!GetHandleVerifier [0x7ff6253f087c+3addc]
+	chromedriver!(No symbol) [0x7ff625104d9a]
+	chromedriver!GetHandleVerifier [0x7ff6258460a8+490608]
+	KERNEL32!BaseThreadInitThunk [0x7ff9b391e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff9b53ac3fc+2c]
+
